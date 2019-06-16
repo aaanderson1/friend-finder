@@ -8,7 +8,10 @@ app.engine('handlebars', exphbs());
 app.set('view engine', 'handlebars');
 
 app.get('/', (req, res) => {
-    res.render('index');
+    res.render('index', {questions: [
+        {question: 'Do you like animals?'}, 
+        {question: 'Do you like animals?'}
+    ]});
 });
 
 app.listen(PORT);
