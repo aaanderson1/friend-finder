@@ -1,16 +1,16 @@
-var exports = module.exports = {};
+const friends = require('../data/friends.js');
 
-exports.homeRoute = (app) => {
+
+module.exports = {};
+
+module.exports.homeRoute = (app) => {
     app.get('/', (req, res) => {
         res.render('home');
     });
 };
 
-exports.surveyRoute = (app) => {
+module.exports.surveyRoute = (app) => {
     app.get('/survey', (req, res) => {
-        res.render('survey', {questions: [
-            {question: 'Do you like animals?'}, 
-            {question: 'Do you like animals?'}
-        ]});
+        res.render('survey', {questions: friends.getQuestions()});
     });
 };
