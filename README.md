@@ -21,4 +21,4 @@
 
 • Link to code on GitHub: https://github.com/aaanderson1/friend-finder
 
-![Results](friendfinder.png)
+![Results](/friendfinder.png)
