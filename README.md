@@ -3,7 +3,7 @@
 - - -
 ## Directions:
 
-• Ever "meet" someone online, just to find out they are completely different in real life? Do you fear meeting up with a "creeper"? The Friend Finder Filter is designed to filter out those chances. 
+• Ever "meet" someone online, just to find out they are completely different in real life? The "Friend Finder Filter" is designed to filter out those chances. 
 
 • Click on button "Go To Survey"
 
