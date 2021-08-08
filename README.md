@@ -17,7 +17,7 @@
 
 • Technologies used: Node, JavaScript, Express, API's, Routing, Heroku 
 
-• Link to deployed version: https://secret-bastion-11871.herokuapp.com/
+• Link to deployed version: https://friend-finder-filter.herokuapp.com/
 
 • Link to code on GitHub: https://github.com/aaanderson1/friend-finder
 
